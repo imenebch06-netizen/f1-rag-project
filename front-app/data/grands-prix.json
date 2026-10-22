@@ -1,0 +1,14 @@
+[
+  { "id": "australia", "round": 1, "name": "Australian Grand Prix", "circuit": "Albert Park Circuit", "country": { "fr": "Australie", "en": "Australia" }, "date": "2026-03-08" },
+  { "id": "japan", "round": 2, "name": "Japanese Grand Prix", "circuit": "Suzuka Circuit", "country": { "fr": "Japon", "en": "Japan" }, "date": "2026-04-05" },
+  { "id": "monaco", "round": 3, "name": "Monaco Grand Prix", "circuit": "Circuit de Monaco", "country": { "fr": "Monaco", "en": "Monaco" }, "date": "2026-05-24" },
+  { "id": "spain", "round": 4, "name": "Spanish Grand Prix", "circuit": "Circuit de Barcelona-Catalunya", "country": { "fr": "Espagne", "en": "Spain" }, "date": "2026-06-14" },
+  { "id": "canada", "round": 5, "name": "Canadian Grand Prix", "circuit": "Circuit Gilles-Villeneuve", "country": { "fr": "Canada", "en": "Canada" }, "date": "2026-06-21" },
+  { "id": "austria", "round": 6, "name": "Austrian Grand Prix", "circuit": "Red Bull Ring", "country": { "fr": "Autriche", "en": "Austria" }, "date": "2026-06-28" },
+  { "id": "britain", "round": 7, "name": "British Grand Prix", "circuit": "Silverstone Circuit", "country": { "fr": "Royaume-Uni", "en": "United Kingdom" }, "date": "2026-07-05" },
+  { "id": "belgium", "round": 8, "name": "Belgian Grand Prix", "circuit": "Circuit de Spa-Francorchamps", "country": { "fr": "Belgique", "en": "Belgium" }, "date": "2026-07-26" },
+  { "id": "italy", "round": 9, "name": "Italian Grand Prix", "circuit": "Autodromo Nazionale Monza", "country": { "fr": "Italie", "en": "Italy" }, "date": "2026-09-06" },
+  { "id": "singapore", "round": 10, "name": "Singapore Grand Prix", "circuit": "Marina Bay Street Circuit", "country": { "fr": "Singapour", "en": "Singapore" }, "date": "2026-10-04" },
+  { "id": "usa", "round": 11, "name": "United States Grand Prix", "circuit": "Circuit of the Americas", "country": { "fr": "États-Unis", "en": "United States" }, "date": "2026-10-25" },
+  { "id": "abudhabi", "round": 12, "name": "Abu Dhabi Grand Prix", "circuit": "Yas Marina Circuit", "country": { "fr": "Abou Dabi", "en": "Abu Dhabi" }, "date": "2026-12-06" }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "mp44",
+    "name": "McLaren MP4/4",
+    "team": "McLaren-Honda",
+    "year": 1988,
+    "driver": "Ayrton Senna / Alain Prost",
+    "tagline": {
+      "fr": "15 victoires en 16 courses. La saison la plus dominatrice de l'histoire.",
+      "en": "15 wins in 16 races. The most dominant season in history."
+    },
+    "specs": [
+      {
+        "key": "power",
+        "value": "V6 turbo Honda — ~900 ch",
+        "text": {
+          "fr": "Un tout petit moteur 1,5 L avec un turbo : ça pousse comme une fusée, mais il fallait doser l'accélérateur au millimètre.",
+          "en": "A tiny 1.5L turbo engine: rocket-like punch, but drivers had to feather the throttle to the millimetre."
+        }
+      },
+      {
+        "key": "grip",
+        "value": "Basse et collée au sol",
+        "text": {
+          "fr": "Une voiture très basse qui utilise l'air pour se plaquer au sol : plus elle va vite, plus elle tient la route.",
+          "en": "A very low car that uses air to stick to the ground: the faster it goes, the more it grips."
+        }
+      },
+      {
+        "key": "legacy",
+        "value": "15 victoires en 16 courses",
+        "text": {
+          "fr": "La saison la plus dominatrice jamais vue, avec Senna sacré champion devant Prost.",
+          "en": "The most dominant season ever seen, with Senna crowned champion ahead of Prost."
+        }
+      }
+    ],
+    "stat": { "fr": "15/16 VICTOIRES", "en": "15/16 WINS" },
+    "image": {
+      "remote": "https://commons.wikimedia.org/wiki/Special:FilePath/McLaren%20MP4-4%20at%20Formula%201%20Exhibition%2C%20London%2001.jpg?width=1600",
+      "alt": { "fr": "McLaren MP4/4 de 1988 exposée", "en": "1988 McLaren MP4/4 on display" },
+      "credit": "Wikimedia Commons — CC BY-SA",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:McLaren_MP4-4_at_Formula_1_Exhibition,_London_01.jpg"
+    }
+  },
+  {
+    "id": "f2004",
+    "name": "Ferrari F2004",
+    "team": "Scuderia Ferrari",
+    "year": 2004,
+    "driver": "Michael Schumacher / Rubens Barrichello",
+    "tagline": {
+      "fr": "Le V10 le plus rapide jamais construit : 15 poles, 15 victoires.",
+      "en": "The fastest V10 ever built: 15 poles, 15 wins."
+    },
+    "specs": [
+      {
+        "key": "power",
+        "value": "V10 Ferrari — ~950 ch",
+        "text": {
+          "fr": "Un moteur qui monte à 19 000 tours/minute en hurlant : le son F1 préféré des fans.",
+          "en": "An engine screaming up to 19,000 rpm: the fans' favourite F1 sound."
+        }
+      },
+      {
+        "key": "grip",
+        "value": "Appui record",
+        "text": {
+          "fr": "Des ailerons très travaillés et des pneus faits sur mesure : elle tenait le pavé sur tous les circuits.",
+          "en": "Highly sculpted wings and bespoke tyres: it stuck to the road on every circuit."
+        }
+      },
+      {
+        "key": "legacy",
+        "value": "7e titre de Schumacher",
+        "text": {
+          "fr": "La voiture du 7e titre mondial de Schumi, avec 15 victoires en 18 courses.",
+          "en": "The car of Schumi's 7th world title, with 15 wins in 18 races."
+        }
+      }
+    ],
+    "stat": { "fr": "7e TITRE SCHUMI", "en": "SCHUMI TITLE No.7" },
+    "image": {
+      "remote": "https://commons.wikimedia.org/wiki/Special:FilePath/Ferrari%20F2004%2C%20Michael%20Schumacher%20(The%20Loh%20Collection)%201.jpg?width=1600",
+      "alt": { "fr": "Ferrari F2004 de Schumacher au musée", "en": "Schumacher's Ferrari F2004 in a museum" },
+      "credit": "Wikimedia Commons — CC BY-SA",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_F2004,_Michael_Schumacher_(The_Loh_Collection)_1.jpg"
+    }
+  },
+  {
+    "id": "rb19",
+    "name": "Red Bull RB19",
+    "team": "Red Bull Racing-Honda RBPT",
+    "year": 2023,
+    "driver": "Max Verstappen / Sergio Pérez",
+    "tagline": {
+      "fr": "21 victoires en 22 courses. Le taux de victoire le plus élevé jamais vu.",
+      "en": "21 wins in 22 races. The highest win rate ever seen."
+    },
+    "specs": [
+      {
+        "key": "power",
+        "value": "V6 hybride — ~1020 ch",
+        "text": {
+          "fr": "Moitié essence, moitié électrique : l'énergie du freinage est récupérée pour réaccélérer.",
+          "en": "Half petrol, half electric: braking energy is recovered to accelerate again."
+        }
+      },
+      {
+        "key": "grip",
+        "value": "La reine de l'effet de sol",
+        "text": {
+          "fr": "Son plancher aspire la voiture au sol, et son aileron arrière qui s'ouvre (DRS) la rend imbattable en ligne droite.",
+          "en": "Its floor sucks the car to the ground, and its opening rear wing (DRS) makes it unbeatable on straights."
+        }
+      },
+      {
+        "key": "legacy",
+        "value": "21 victoires en 22 courses",
+        "text": {
+          "fr": "Le meilleur ratio victoires/courses de l'histoire, avec Verstappen champion du monde.",
+          "en": "The best win ratio in history, with Verstappen world champion."
+        }
+      }
+    ],
+    "stat": { "fr": "95,5 % DE VICTOIRES", "en": "95.5% WIN RATE" },
+    "image": {
+      "remote": "https://commons.wikimedia.org/wiki/Special:FilePath/Max%20Verstappen%20Red%20Bull%20RB19%20Petersen%20Automotive%20Museum.jpg?width=1600",
+      "alt": { "fr": "Red Bull RB19 de Verstappen au musée Petersen", "en": "Verstappen's Red Bull RB19 at the Petersen museum" },
+      "credit": "Wikimedia Commons — CC BY-SA",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Max_Verstappen_Red_Bull_RB19_Petersen_Automotive_Museum.jpg"
+    }
+  },
+  {
+    "id": "fw14b",
+    "name": "Williams FW14B",
+    "team": "Williams-Renault",
+    "year": 1992,
+    "driver": "Nigel Mansell / Riccardo Patrese",
+    "tagline": {
+      "fr": "Suspension active, antipatinage : l'ordinateur qui a offert le titre à Mansell.",
+      "en": "Active suspension, traction control: the computer that won Mansell the title."
+    },
+    "specs": [
+      {
+        "key": "power",
+        "value": "V10 Renault — ~760 ch",
+        "text": {
+          "fr": "Un gros V10 nerveux, parmi les moteurs les plus puissants de son époque.",
+          "en": "A racy V10, among the most powerful engines of its era."
+        }
+      },
+      {
+        "key": "grip",
+        "value": "Une suspension qui réfléchit",
+        "text": {
+          "fr": "La voiture réglait sa hauteur toute seule dans les virages : autorisé à l'époque, interdit dès l'année suivante.",
+          "en": "The car adjusted its own height through corners: allowed back then, banned the very next year."
+        }
+      },
+      {
+        "key": "legacy",
+        "value": "Le titre de Mansell",
+        "text": {
+          "fr": "9 victoires en 16 courses : le sacre de Nigel Mansell en 1992.",
+          "en": "9 wins in 16 races: Nigel Mansell's crowning in 1992."
+        }
+      }
+    ],
+    "stat": { "fr": "9/16 VICTOIRES MANSELL", "en": "MANSELL 9/16 WINS" },
+    "image": {
+      "remote": "https://commons.wikimedia.org/wiki/Special:FilePath/Williams%20FW14B%20(35029084126).jpg?width=1600",
+      "alt": { "fr": "Williams FW14B de Mansell à Goodwood", "en": "Mansell's Williams FW14B at Goodwood" },
+      "credit": "Wikimedia Commons — CC BY-SA (Flickr)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Williams_FW14B_(35029084126).jpg"
+    }
+  },
+  {
+    "id": "w11",
+    "name": "Mercedes W11",
+    "team": "Mercedes-AMG Petronas",
+    "year": 2020,
+    "driver": "Lewis Hamilton / Valtteri Bottas",
+    "tagline": {
+      "fr": "La flèche noire et son DAS : la machine à poles ultime.",
+      "en": "The black arrow and its DAS: the ultimate pole machine."
+    },
+    "specs": [
+      {
+        "key": "power",
+        "value": "V6 hybride — ~1020 ch",
+        "text": {
+          "fr": "Le moteur le plus efficace du plateau, avec un mode spécial qui libérait tout en qualifications.",
+          "en": "The most efficient engine on the grid, with a special mode unleashing everything in qualifying."
+        }
+      },
+      {
+        "key": "grip",
+        "value": "La direction magique (DAS)",
+        "text": {
+          "fr": "Le volant coulissait en ligne droite pour aligner les roues : moins de frottement, des pneus qui durent plus longtemps.",
+          "en": "The steering wheel slid on straights to align the wheels: less friction, longer-lasting tyres."
+        }
+      },
+      {
+        "key": "legacy",
+        "value": "13 poles en 17 courses",
+        "text": {
+          "fr": "La machine à pole positions d'Hamilton, en route vers son 7e titre mondial.",
+          "en": "Hamilton's pole machine, on the way to his 7th world title."
+        }
+      }
+    ],
+    "stat": { "fr": "13/17 POLES", "en": "13/17 POLES" },
+    "image": {
+      "remote": "https://commons.wikimedia.org/wiki/Special:FilePath/Lewis%20Hamilton-Mercedes%20W11%20(1).jpg?width=1600",
+      "alt": { "fr": "Mercedes W11 d'Hamilton aux essais de Barcelone", "en": "Hamilton's Mercedes W11 at Barcelona testing" },
+      "credit": "Wikimedia Commons — CC BY-SA",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Lewis_Hamilton-Mercedes_W11_(1).jpg"
+    }
+  },
+  {
+    "id": "lotus79",
+    "name": "Lotus 79",
+    "team": "Team Lotus-Ford",
+    "year": 1978,
+    "driver": "Mario Andretti / Ronnie Peterson",
+    "tagline": {
+      "fr": "La première vraie wing-car : l'effet de sol qui a tout changé.",
+      "en": "The first true wing-car: ground effect that changed everything."
+    },
+    "specs": [
+      {
+        "key": "power",
+        "value": "V8 Ford — ~475 ch",
+        "text": {
+          "fr": "Un moteur simple et fiable : toute la magie venait du reste de la voiture.",
+          "en": "A simple, reliable engine: all the magic came from the rest of the car."
+        }
+      },
+      {
+        "key": "grip",
+        "value": "L'aspirateur à virages",
+        "text": {
+          "fr": "Des tunnels sous la voiture l'aspirent au sol : l'invention de l'effet de sol, en 1978.",
+          "en": "Tunnels under the car suck it to the ground: the ground-effect invention, in 1978."
+        }
+      },
+      {
+        "key": "legacy",
+        "value": "Le titre d'Andretti",
+        "text": {
+          "fr": "6 victoires et le sacre de Mario Andretti — copiée par toutes les équipes ensuite.",
+          "en": "6 wins and Mario Andretti's title — copied by every team afterwards."
+        }
+      }
+    ],
+    "stat": { "fr": "EFFET DE SOL N°1", "en": "GROUND EFFECT No.1" },
+    "image": {
+      "remote": "https://commons.wikimedia.org/wiki/Special:FilePath/Lotus%2079%20(Mario%20Andretti)%20001.jpg?width=1600",
+      "alt": { "fr": "Lotus 79 d'Andretti en démonstration", "en": "Andretti's Lotus 79 on demonstration" },
+      "credit": "Wikimedia Commons — CC BY-SA (Flickr)",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Lotus_79_(Mario_Andretti)_001.jpg"
+    }
+  }
+]
